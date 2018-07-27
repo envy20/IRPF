@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="IRPF">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3347846774 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Primary Key</note>
+        </trans-unit>
+        <trans-unit id="Table 3347846774 - Field 2014957790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta Asociada 1</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta Asociada 1</note>
+        </trans-unit>
+        <trans-unit id="Table 3347846774 - Field 101867939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta Asociada 2</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta Asociada 2</note>
+        </trans-unit>
+        <trans-unit id="Table 3347846774 - Field 739564556 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta Asociada 3</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta Asociada 3</note>
+        </trans-unit>
+        <trans-unit id="Table 3347846774 - Field 3121442001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta Asociada 4</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta Asociada 4</note>
+        </trans-unit>
+        <trans-unit id="Table 3347846774 - Field 3759138618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta Asociada 5</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta Asociada 5</note>
+        </trans-unit>
+        <trans-unit id="Table 3347846774 - Field 1846048767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta Asociada 6</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta Asociada 6</note>
+        </trans-unit>
+        <trans-unit id="Table 3347846774 - Field 3342909095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta IRPF Venta</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta IRPF Venta</note>
+        </trans-unit>
+        <trans-unit id="Table 3347846774 - Field 4172586297 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta IRPF Compra</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta IRPF Compra</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 855075786 - Method 2258496633 - NamedType 3729045866" size-unit="char" translate="yes" xml:space="preserve">
+          <source>¿Desea realizar un calculo del IRPF para esta factura?</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:IRPF Management - LocalVariable:Pregunta</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 617625379 - Field 1844764716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% IRPF</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:VendorIRPF - Field:% IRPf</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 995614483 - Field 2361878631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% IRPF</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:IRPF PurchaseHeader - Field:IRPF</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4103608614 - Field 2361878631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% IRPF</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:IRPF Sales header - Field:IRPF</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2845458523 - Field 1844764716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% IRPF</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:IRPF Customer - Field:% IRPf</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
