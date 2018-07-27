@@ -1,0 +1,25 @@
+{
+  "id": "31aca450-5a25-4987-99f8-e94f3bd5e75a",
+  "name": "IRPF",
+  "publisher": "AllCloud",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 99999
+  },
+  "features": [
+    "TranslationFile"
+  ]
+}
