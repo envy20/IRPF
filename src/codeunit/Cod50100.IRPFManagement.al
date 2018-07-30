@@ -16,21 +16,56 @@ codeunit 50100 "IRPF Management"
     var
         Pregunta: Label '¿Desea realizar un calculo del IRPF para esta factura?';
         CalculoIRPF: Codeunit 50101;
-        PurchaseLine: Record 39;
+        SalesLine: Record 39;
         IRPF: Boolean;
     begin
         Clear(IRPF);
-        Clear(PurchaseLine);
+        Clear(SalesLine);
         if (rec.IRPF <> 0) then begin
-            PurchaseLine.SetRange("Document No.", Rec."No.");
-            if PurchaseLine.FindSet() then
+            SalesLine.SetRange("Document No.", Rec."No.");
+            if SalesLine.FindSet() then
                 repeat
-                    if PurchaseLine.Quantity < 0 then
+                    if SalesLine.Quantity < 0 then
                         IRPF := true;
-                until PurchaseLine.Next() = 0;
+                until SalesLine.Next() = 0;
             if not IRPF then
                 if Confirm(Pregunta, false) then
                     CalculoIRPF.CalculoImporte(Rec."No.");
+
+        end;
+    end;
+
+    [EventSubscriber(ObjectType::Table, 36  , 'OnAfterInsertEvent', '', false, false)]
+    local procedure ValidateIRPF_OnAfterInsertEventSalesHeader(var Rec: Record "sales Header")
+    var
+        Vendor: Record Vendor;
+    begin
+        if Vendor.Get(Rec."Sell-to Customer No.") then begin
+            Rec.IRPF := Vendor."% IRPf";
+            Rec.Modify(true);
+        end;
+    end;
+
+    [EventSubscriber(ObjectType::Page, 43, 'OnBeforeActionEvent', 'Post', false, false)]
+    local procedure COnfirm_OnBeforeActionEventSalesInvoice(var Rec: Record "Sales Header")
+    var
+        Pregunta: Label '¿Desea realizar un calculo del IRPF para esta factura?';
+        CalculoIRPF: Codeunit 50101;
+        SalesLine: Record 37;
+        IRPF: Boolean;
+    begin
+        Clear(IRPF);
+        Clear(SalesLine);
+        if (rec.IRPF <> 0) then begin
+            SalesLine.SetRange("Document No.", Rec."No.");
+            if SalesLine.FindSet() then
+                repeat
+                    if SalesLine.Quantity < 0 then
+                        IRPF := true;
+                until SalesLine.Next() = 0;
+            if not IRPF then
+                if Confirm(Pregunta, false) then
+                    CalculoIRPF.CalculoImporteVenta(Rec."No.");
 
         end;
     end;

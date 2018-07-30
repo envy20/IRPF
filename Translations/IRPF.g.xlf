@@ -53,6 +53,11 @@
           <note from="Developer" annotates="general" priority="2" />
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit:IRPF Management - LocalVariable:Pregunta</note>
         </trans-unit>
+        <trans-unit id="Codeunit 855075786 - Method 1419247370 - NamedType 3729045866" size-unit="char" translate="yes" xml:space="preserve">
+          <source>¿Desea realizar un calculo del IRPF para esta factura?</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:IRPF Management - LocalVariable:Pregunta</note>
+        </trans-unit>
         <trans-unit id="TableExtension 617625379 - Field 1844764716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>% IRPF</source>
           <note from="Developer" annotates="general" priority="2" />
