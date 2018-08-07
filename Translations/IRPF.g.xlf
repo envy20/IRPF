@@ -5,78 +5,238 @@
       <group id="body">
         <trans-unit id="Table 3347846774 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Primary Key</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Primary Key</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IRPF Setup - Field Primary Key - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3347846774 - Field 2014957790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cuenta Asociada 1</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta Asociada 1</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IRPF Setup - Field Cuenta Asociada 1 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3347846774 - Field 101867939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cuenta Asociada 2</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta Asociada 2</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IRPF Setup - Field Cuenta Asociada 2 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3347846774 - Field 739564556 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cuenta Asociada 3</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta Asociada 3</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IRPF Setup - Field Cuenta Asociada 3 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3347846774 - Field 3121442001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cuenta Asociada 4</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta Asociada 4</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IRPF Setup - Field Cuenta Asociada 4 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3347846774 - Field 3759138618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cuenta Asociada 5</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta Asociada 5</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IRPF Setup - Field Cuenta Asociada 5 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3347846774 - Field 1846048767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cuenta Asociada 6</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta Asociada 6</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IRPF Setup - Field Cuenta Asociada 6 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3347846774 - Field 3342909095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cuenta IRPF Venta</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta IRPF Venta</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IRPF Setup - Field Cuenta IRPF Venta - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3347846774 - Field 4172586297 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Cuenta IRPF Compra</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">Table:IRPF Setup - Field:Cuenta IRPF Compra</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IRPF Setup - Field Cuenta IRPF Compra - Property Caption</note>
         </trans-unit>
         <trans-unit id="Codeunit 855075786 - Method 2258496633 - NamedType 3729045866" size-unit="char" translate="yes" xml:space="preserve">
           <source>¿Desea realizar un calculo del IRPF para esta factura?</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:IRPF Management - LocalVariable:Pregunta</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit IRPF Management - Procedure COnfirm_OnBeforeActionEvent - NamedType Pregunta</note>
         </trans-unit>
         <trans-unit id="Codeunit 855075786 - Method 1419247370 - NamedType 3729045866" size-unit="char" translate="yes" xml:space="preserve">
           <source>¿Desea realizar un calculo del IRPF para esta factura?</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit:IRPF Management - LocalVariable:Pregunta</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit IRPF Management - Procedure COnfirm_OnBeforeActionEventSalesInvoice - NamedType Pregunta</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Asistente de Instalación</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3392976171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bienvenido al asistente de Instalacion del modulo IRPF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control WelcomeStep1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3392976171 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Esta configuracíon te guiará para completar satisfactoriamente el proceso de  instalación</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control WelcomeStep1 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 1165826145 - Property 2879900210" size-unit="char" translate="no" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control WelcomStep2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 1165826145 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Elige Siguiente para empezar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control WelcomStep2 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 2418118418 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Por favor rellena la cuentas destinadas a ventas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control pasoVentas - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3342909095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta de IRPF para Venta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta IRPF Venta - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3342909095 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Normalmente asociada a la cuenta 473. Es Obligatorio el uso de cuentas Auxiliares tipo 4730001</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta IRPF Venta - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 2014957790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta Productos Venta 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta Asociada 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 2014957790 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta asociada a la venta de productos con IRPF (Ejemplo 721)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta Asociada 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 101867939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta Productos Venta 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta Asociada 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 101867939 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta asociada a la venta de productos con IRPF (Ejemplo 721)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta Asociada 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 739564556 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta Productos Venta 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta Asociada 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 739564556 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta asociada a la venta de productos con IRPF (Ejemplo 721)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta Asociada 3 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 4219652816 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Por favor rellena la cuentas destinadas a Compras</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control PasoCompras - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 4172586297 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta de IRPF para Compra</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta IRPF Compra - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 4172586297 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Normalmente asociada a la cuenta 4751. Es Obligatorio el uso de cuentas Auxiliares tipo 4751001</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta IRPF Compra - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3121442001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta Productos Compra 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta Asociada 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3121442001 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta asociada a la compra de productos con IRPF (Ejemplo 623)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta Asociada 4 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3759138618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta Productos Compra 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta Asociada 5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3759138618 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta asociada a la compra de productos con IRPF (Ejemplo 623)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta Asociada 5 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 1846048767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta Productos Compra 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta Asociada 6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 1846048767 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cuenta asociada a la compra de productos con IRPF (Ejemplo 623)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control Cuenta Asociada 6 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3819372211 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finalizar Instalación</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control StepFinish - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 2949891724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control StepFinish1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 2949891724 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Para terminar la instalación, presion Finalizar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control StepFinish1 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3587588341 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control StepFinish2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Control 3587588341 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aviso: se recmonienda rellenar los modulos (Compras/ ventas) que se tenga pensado utilizar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Control StepFinish2 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Action 742034285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Volver</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Action Back - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Action 1235620153 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Siguiente</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Action Next - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846707486 - Action 2667510389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finalizar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCA Initial Setup Wizard - Action Finish - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 617625379 - Field 1844764716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>% IRPF</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:VendorIRPF - Field:% IRPf</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension VendorIRPF - Field % IRPf - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 995614483 - Field 2361878631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>% IRPF</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:IRPF PurchaseHeader - Field:IRPF</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IRPF PurchaseHeader - Field IRPF - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 4103608614 - Field 2361878631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>% IRPF</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:IRPF Sales header - Field:IRPF</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IRPF Sales header - Field IRPF - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 2845458523 - Field 1844764716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>% IRPF</source>
-          <note from="Developer" annotates="general" priority="2" />
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension:IRPF Customer - Field:% IRPf</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IRPF Customer - Field % IRPf - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3199989281 - Field 1976190141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre proveedor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MovsContabilidad - Field Nombre Proveedor - Property Caption</note>
         </trans-unit>
       </group>
     </body>

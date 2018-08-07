@@ -49,12 +49,32 @@ table 50100 "IRPF Setup"
             Caption = 'Cuenta IRPF Venta';
             DataClassification = ToBeClassified;
             TableRelation = "G/L Account";
+            trigger OnValidate()
+            var
+                GLAcount: Record "G/L Account";
+            begin
+                if "Cuenta IRPF Venta"<>'' then begin
+                    if GLAcount.Get("Cuenta IRPF Venta") then 
+                    GLAcount.TestField("Account Type",GLAcount."Account Type"::Posting);
+                end;
+                
+            end;
         }
         field(9; "Cuenta IRPF Compra"; Code[20])
         {
             Caption = 'Cuenta IRPF Compra';
             DataClassification = ToBeClassified;
             TableRelation = "G/L Account";
+            trigger OnValidate()
+            var
+                GLAcount: Record "G/L Account";
+            begin
+                if "Cuenta IRPF Compra"<>'' then begin
+                    if GLAcount.Get("Cuenta IRPF Compra") then 
+                    GLAcount.TestField("Account Type",GLAcount."Account Type"::Posting);
+                end;
+                
+            end;
         }
 
     }

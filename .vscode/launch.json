@@ -5,10 +5,13 @@
             "type": "al",
             "request": "launch",
             "name": "Your own server",
-            "server": "http://navdemo1",
-            "serverInstance": "nav",
+            "server": "http://navdemo2",
+            "serverInstance": "NAV",
             "authentication": "Windows",
+
+            "startupObjectId": 50101,
             
+          
         }
     ]
 }
